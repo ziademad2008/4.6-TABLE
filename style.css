@@ -1,0 +1,46 @@
+table,
+td {
+  text-align: center;
+  background-color: slategrey;
+  border: solid darkgray;
+}
+
+td {
+  width: 3vw;
+  height: 3vw;
+  padding: 2px;
+  border: solid 2px slateblue;
+}
+body {
+  background-color: teal;
+  font-family: monospace;
+  text-align: center;
+}
+.x.squre {
+  background-color: mediumslateblue;
+  border: solid 2px darkgrey;
+  color: white;
+  font-weight: bold;
+}
+.controller {
+  background-color: navajowhite;
+  display: inline-block;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bolder;
+  font-size: 15px;
+}
+h1 {
+  color: white;
+}
+table {
+  margin: 55px;
+  border: solid white;
+}
+.first-row,
+.first-col {
+  background-color: skyblue;
+  color: white;
+  font-weight: bold;
+  border: solid sienna 2px;
+}
